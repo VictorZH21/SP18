@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\СП18\СП18\bin\Debug\СП18.exe.config
+C:\Users\CoFFey\source\repos\СП18\СП18\bin\Debug\СП18.exe
+C:\Users\CoFFey\source\repos\СП18\СП18\bin\Debug\СП18.pdb
+C:\Users\CoFFey\source\repos\СП18\СП18\obj\Debug\СП18.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\СП18\СП18\obj\Debug\СП18.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\СП18\СП18\obj\Debug\СП18.Form1.resources
+C:\Users\CoFFey\source\repos\СП18\СП18\obj\Debug\СП18.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\СП18\СП18\obj\Debug\СП18.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\СП18\СП18\obj\Debug\СП18.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\СП18\СП18\obj\Debug\СП18.exe
+C:\Users\CoFFey\source\repos\СП18\СП18\obj\Debug\СП18.pdb
